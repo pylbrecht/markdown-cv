@@ -1,91 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume - Philipp Albrecht
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Philipp Albrecht
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Galvanistr. 14 A3,
+10587 Berlin,
+Germany
+</div>
+<div id="webaddress">
++49 163 297 92 33
+| <a href="mailto:palbrecht@mailbox.org">palbrecht@mailbox.org</a>
+| <a href="https://github.com/pylbrecht">github.com/pylbrecht</a>
 </div>
 
+## Work experience
+`06/2020 - now`
+__Software Engineer__
+- Full-time, momox GmbH, Berlin
+- Decomposing a historically grown monolith
+- Building hexagonal microservices following a Domain-driven design approach
+- Automating development processes with Gitlab CI pipelines
+- Python, Django, FastAPI, Flask, GCP, Docker
 
-## Currently
+`11/2014 - 06/2020`
+__Tool development (Python)__
+- Working student at IAV GmbH, Berlin
+- Automated testing, Scrum, TDD, in-house tool development and maintenance
 
-Standing on the shoulders of giants
+`10/2017 - 02/2018`
+__Chip simulation of an automotive ECU__
+- Internship at IAV GmbH, Berlin
+- QTronic Silver
+- C, Assembler
 
-### Specialized in
+`08/2015 - 03/2016`
+__Web application for managing state fundings__
+- Working student at Beuth University of Applied Sciences
+- Client: Bezirksamt Friedrichshain-Kreuzberg Berlin
+- Django, Bootstrap
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Volunteer experience
 
+`03/2020 - now`
+__Hospice volunteer__
+- Evangelisches Johannesstift, Berlin
 
-### Research interests
+`11/2018 - 02/2020`
+__Hospice volunteer__
+- Hospizdienst Christophorus e.V., Berlin
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`04/2019 - now`
+__Contributing to the Servo Project__
+- Linux Foundation, Rust
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`10/2019 - 03/2020`
+__Beuth University of Applied Sciences__
+- M.Eng. Computer Science (Embedded Systems)
+- cancelled in favor of working in the field
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`04/2013 - 09/2019`
+__Beuth University of Applied Sciences__
+- B.Eng. Computer Science (Embedded Systems)
+- "Concept and prototype for continuous testing of hardware in the loop systems"
 
 
+## Skills
+__Python__
+fluent, main language I've been working with for the past 7 years
 
-## Awards
+__Google Cloud Platform__:
+Kubernetes, Pub/Sub, Storage, SQL, Firestore
 
-`2012`
-President, *Royal Society*, London, UK
+__Test Driven Development__:
+no production code gets written without a test backing it up
 
-Associate, *French Academy of Science*, Paris, France
+__Domain-Driven Design:__
+building microservices using DDD concepts paired with architectural patterns
 
+__UNIX/Linux__:
+comfortable using the shell (btw I use Arch)
 
+__React.js__:
+currently putting basic knowledge into practice by rewriting a Django frontend using React
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+__Gitlab CI__:
+building CI pipelines to automate development processes (build, lint, test, deploy)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: June 2021 -->
