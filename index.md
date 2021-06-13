@@ -15,13 +15,17 @@ Germany
 </div>
 
 ## Work experience
-`06/2020 - now`
+`01/2021 - now`
 __Software Engineer__
 - Full-time, momox GmbH, Berlin
 - Decomposing a historically grown monolith
 - Building hexagonal microservices following a Domain-driven design approach
 - Automating development processes with Gitlab CI pipelines
 - Python, Django, FastAPI, Flask, GCP, Docker
+
+__Junior Python Developer__
+`06/2020 - 12/2020`
+- Full-time, momox GmbH, Berlin
 
 `11/2014 - 06/2020`
 __Tool development (Python)__
