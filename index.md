@@ -15,9 +15,16 @@ Germany
 </div>
 
 ## Work experience
-`01/2021 - now`
-__Software Engineer__
-- Full-time, momox GmbH, Berlin
+`01/2022 - now`
+__Senior Software Engineer (Logistics)__
+- Full-time, momox, Berlin
+- Building and maintaining message-driven solutions to drive and improve processes in our warehouses (Packing, Shipping, Returns, etc.) involving cross-team collaborations
+- Driving initiatives to improve daily work enabling faster delivery
+- Python, TypeScript, React, Flask, FastAPI, MongoDB, PostgreSQL, MySQL, Kubernetes, Docker, Google Cloud Platform, Domain-driven design, Event Sourcing, CQRS
+
+`01/2021 - 12/2021`
+__Software Engineer (External Marketplaces)__
+- Full-time, momox, Berlin
 - Decomposing a historically grown monolith
 - Building hexagonal microservices following a Domain-driven design approach
 - Automating development processes with Gitlab CI pipelines
@@ -25,7 +32,7 @@ __Software Engineer__
 
 __Junior Python Developer__
 `06/2020 - 12/2020`
-- Full-time, momox GmbH, Berlin
+- Full-time, momox, Berlin
 
 `11/2014 - 06/2020`
 __Tool development (Python)__
@@ -55,8 +62,9 @@ __Hospice volunteer__
 - Hospizdienst Christophorus e.V., Berlin
 
 `04/2019 - now`
-__Contributing to the Servo Project__
-- Linux Foundation, Rust
+__OSS contributions__
+- [Servo Project](https://servo.org/), Rust
+- [qutebrowser](https://www.qutebrowser.org/index.html), Python
 
 
 ## Education
@@ -73,11 +81,11 @@ __Beuth University of Applied Sciences__
 
 
 ## Skills
-__Python__
-fluent, main language I've been working with for the past 7 years
+__Python:__
+main language I've been working with for the past 9 years
 
 __Google Cloud Platform__:
-Kubernetes, Pub/Sub, Storage, SQL, Firestore
+Kubernetes, Pub/Sub, Storage, SQL, Firestore, Datastore
 
 __Test Driven Development__:
 no production code gets written without a test backing it up
@@ -86,13 +94,13 @@ __Domain-Driven Design:__
 building microservices using DDD concepts paired with architectural patterns
 
 __UNIX/Linux__:
-comfortable using the shell (btw I use Arch)
+Arch Linux - customized to my personal needs - is my daily driver
 
-__React.js__:
-currently putting basic knowledge into practice by rewriting a Django frontend using React
+__TypeScript, React__:
+basic knowledge (Junior to Mid-level)
 
 __Gitlab CI__:
-building CI pipelines to automate development processes (build, lint, test, deploy)
+building and extending CI/CD pipelines to automate development processes (build, lint, test, deploy)
 
 
 <!-- ### Footer
