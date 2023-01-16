@@ -28,7 +28,7 @@ __Software Engineer (External Marketplaces)__
 - Decomposing a historically grown monolith
 - Building hexagonal microservices following a Domain-driven design approach
 - Automating development processes with Gitlab CI pipelines
-- Python, Django, FastAPI, Flask, GCP, Docker
+- Python, Django, FastAPI, Flask, MySQL, Google Cloud Platform, Docker, Kubernetes
 
 __Junior Python Developer__
 `06/2020 - 12/2020`
