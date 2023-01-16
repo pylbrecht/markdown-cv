@@ -70,7 +70,7 @@ __OSS contributions__
 ## Education
 
 `10/2019 - 03/2020`
-__Beuth University of Applied Sciences__
+__Beuth University of Applied Sciences (cancelled)__
 - M.Eng. Computer Science (Embedded Systems)
 - cancelled in favor of working in the field
 
