@@ -53,6 +53,11 @@ __Web application for managing state fundings__
 
 ## Volunteer experience
 
+`04/2019 - now`
+__OSS contributions__
+- [Servo Project](https://servo.org/) (see my [pull requests](https://github.com/servo/servo/pulls?q=author%3Apylbrecht+is%3Apr)), Rust
+- [qutebrowser](https://www.qutebrowser.org/index.html) (see my [pull requests](https://github.com/qutebrowser/qutebrowser/pulls?q=is%3Apr+author%3Apylbrecht)), Python
+
 `03/2020 - now`
 __Hospice volunteer__
 - Evangelisches Johannesstift, Berlin
@@ -60,11 +65,6 @@ __Hospice volunteer__
 `11/2018 - 02/2020`
 __Hospice volunteer__
 - Hospizdienst Christophorus e.V., Berlin
-
-`04/2019 - now`
-__OSS contributions__
-- [Servo Project](https://servo.org/) (see my [pull requests](https://github.com/servo/servo/pulls?q=author%3Apylbrecht+is%3Apr)), Rust
-- [qutebrowser](https://www.qutebrowser.org/index.html) (see my [pull requests](https://github.com/qutebrowser/qutebrowser/pulls?q=is%3Apr+author%3Apylbrecht)), Python
 
 
 ## Education
