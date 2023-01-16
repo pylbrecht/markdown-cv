@@ -63,8 +63,8 @@ __Hospice volunteer__
 
 `04/2019 - now`
 __OSS contributions__
-- [Servo Project](https://servo.org/), Rust
-- [qutebrowser](https://www.qutebrowser.org/index.html), Python
+- [Servo Project](https://servo.org/) (see my [pull requests](https://github.com/servo/servo/pulls?q=author%3Apylbrecht+is%3Apr)), Rust
+- [qutebrowser](https://www.qutebrowser.org/index.html) (see my [pull requests](https://github.com/qutebrowser/qutebrowser/pulls?q=is%3Apr+author%3Apylbrecht)), Python
 
 
 ## Education
