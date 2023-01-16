@@ -79,6 +79,11 @@ __Beuth University of Applied Sciences__
 - B.Eng. Computer Science (Embedded Systems)
 - "Concept and prototype for continuous testing of hardware in the loop systems"
 
+<!-- 
+	Printing to PDF breaks the page in the middle of skills, which looks ugly.
+	Ideally this should be fixed in CSS, but I am too lazy to dig into the specifics here.
+-->
+<div style="page-break-after: always;"></div>
 
 ## Skills
 __Python:__
