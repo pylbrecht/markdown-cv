@@ -20,15 +20,18 @@ __Senior Software Engineer (Logistics)__
 - Full-time, momox, Berlin
 - Building and maintaining message-driven solutions to drive and improve processes in our warehouses (Packing, Shipping, Returns, etc.) involving cross-team collaborations
 - Driving initiatives to improve daily work enabling faster delivery
-- Python, TypeScript, React, Flask, FastAPI, MongoDB, PostgreSQL, MySQL, Kubernetes, Docker, Google Cloud Platform, Domain-driven design, Event Sourcing, CQRS
+- Python, TypeScript, React, Flask, FastAPI, MongoDB, PostgreSQL, MySQL, Kubernetes, Docker, Google Cloud Platform, Domain-driven design, Event Sourcing, CQRS, Gitlab CI/CD
 
 `01/2021 - 12/2021`
 __Software Engineer (External Marketplaces)__
 - Full-time, momox, Berlin
-- Decomposing a historically grown monolith
-- Building hexagonal microservices following a Domain-driven design approach
+- Integrating with internal and external marketplaces (eBay, Amazon, etc.)
+  handling offers (catalogue), payments, invoicing
+- Maintaining and extending internal Customer Support interface
+- Decomposing a historically grown monolith by extracting microservices using
+  hexagonal architecture and Domain-driven design patterns
 - Automating development processes with Gitlab CI pipelines
-- Python, Django, FastAPI, Flask, MySQL, Google Cloud Platform, Docker, Kubernetes
+- Python, Django, Bootstrap, FastAPI, Flask, MySQL, Google Cloud Platform, Docker, Kubernetes, Gitlab CI/CD
 
 __Junior Python Developer__
 `06/2020 - 12/2020`
