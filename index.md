@@ -4,8 +4,8 @@ title: Resume - Philipp Albrecht
 ---
 # Philipp Albrecht
 <div id="webaddress">
-Galvanistr. 14 A3,
-10587 Berlin,
+An der Wildbahn 72,
+13503 Berlin,
 Germany
 </div>
 <div id="webaddress">
@@ -14,8 +14,20 @@ Germany
 | <a href="https://github.com/pylbrecht">github.com/pylbrecht</a>
 </div>
 
-## Work experience
-`01/2022 - now`
+<br />
+
+## envelio GmbH
+
+`09/2023 - now`
+__Senior Software Engineer (remote)__
+- Leading the API chapter to establish best practices, facilitate cross-team collaboration, and organize knowledge-sharing, resulting in more consistent API design and a smoother development experience.
+- Scaling API infrastructure to support organization-wide usage for a continuously growing engineering department.
+- Introduced automated code formatting and pre-commit hooks to reduce style-related review overhead and improve code quality across the company.
+- Providing regular mentorship through one-on-one sessions, code-reviews, and technical discussions to support the growth of junior and mid-level engineers.
+
+### momox SE
+
+`01/2022 - 08/2023`
 __Senior Software Engineer (Logistics)__
 - Full-time, momox, Berlin
 - Building and maintaining message-driven solutions to drive and improve processes in our warehouses (Packing, Shipping, Returns, etc.) involving cross-team collaborations
@@ -37,31 +49,40 @@ __Junior Python Developer__
 `06/2020 - 12/2020`
 - Full-time, momox, Berlin
 
+### IAV GmbH, Berlin
+
 `11/2014 - 06/2020`
 __Tool development (Python)__
-- Working student at IAV GmbH, Berlin
+- Working student
 - Automated testing, Scrum, TDD, in-house tool development and maintenance
 
 `10/2017 - 02/2018`
 __Chip simulation of an automotive ECU__
-- Internship at IAV GmbH, Berlin
+- Internship
 - QTronic Silver
 - C, Assembler
 
+### Beuth University of Applied Sciences, Berlin
+
 `08/2015 - 03/2016`
 __Web application for managing state fundings__
-- Working student at Beuth University of Applied Sciences
+- Working student
 - Client: Bezirksamt Friedrichshain-Kreuzberg Berlin
 - Django, Bootstrap
 
+## Open Source Contributions
+
+__[The Servo Project](https://servo.org/)__
+- Rust
+- See my [pull requests](https://github.com/servo/servo/pulls?q=author%3Apylbrecht+is%3Apr)
+
+__[qutebrowser](https://www.qutebrowser.org/index.html)__
+- Python
+- See my [pull requests](https://github.com/qutebrowser/qutebrowser/pulls?q=is%3Apr+author%3Apylbrecht)
+
 ## Volunteer experience
 
-`04/2019 - now`
-__OSS contributions__
-- [Servo Project](https://servo.org/) (see my [pull requests](https://github.com/servo/servo/pulls?q=author%3Apylbrecht+is%3Apr)), Rust
-- [qutebrowser](https://www.qutebrowser.org/index.html) (see my [pull requests](https://github.com/qutebrowser/qutebrowser/pulls?q=is%3Apr+author%3Apylbrecht)), Python
-
-`03/2020 - now`
+`03/2020 - 01/2024`
 __Hospice volunteer__
 - Evangelisches Johannesstift, Berlin
 
